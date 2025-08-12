@@ -566,7 +566,7 @@ function buildOverlayMain() {
             });
           }).buildElement()
         .buildElement()
-        .addSmall({'textContent': 'Made by 皇居鯖DEVs forked by BlueMarble', 'style': 'margin-top: auto;'}).buildElement()
+        .addSmall({'textContent': 'Made by 皇居鯖DEVs forked from BlueMarble', 'style': 'margin-top: auto;'}).buildElement()
       .buildElement()
     .buildElement()
   .buildOverlay(document.body);
